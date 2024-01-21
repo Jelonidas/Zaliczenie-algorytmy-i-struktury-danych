@@ -1,0 +1,14 @@
+C:\Users\czare\source\repos\maxchar\maxchar\bin\Debug\net8.0\maxchar.exe
+C:\Users\czare\source\repos\maxchar\maxchar\bin\Debug\net8.0\maxchar.deps.json
+C:\Users\czare\source\repos\maxchar\maxchar\bin\Debug\net8.0\maxchar.runtimeconfig.json
+C:\Users\czare\source\repos\maxchar\maxchar\bin\Debug\net8.0\maxchar.dll
+C:\Users\czare\source\repos\maxchar\maxchar\bin\Debug\net8.0\maxchar.pdb
+C:\Users\czare\source\repos\maxchar\maxchar\obj\Debug\net8.0\maxchar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\czare\source\repos\maxchar\maxchar\obj\Debug\net8.0\maxchar.AssemblyInfoInputs.cache
+C:\Users\czare\source\repos\maxchar\maxchar\obj\Debug\net8.0\maxchar.AssemblyInfo.cs
+C:\Users\czare\source\repos\maxchar\maxchar\obj\Debug\net8.0\maxchar.csproj.CoreCompileInputs.cache
+C:\Users\czare\source\repos\maxchar\maxchar\obj\Debug\net8.0\maxchar.dll
+C:\Users\czare\source\repos\maxchar\maxchar\obj\Debug\net8.0\refint\maxchar.dll
+C:\Users\czare\source\repos\maxchar\maxchar\obj\Debug\net8.0\maxchar.pdb
+C:\Users\czare\source\repos\maxchar\maxchar\obj\Debug\net8.0\maxchar.genruntimeconfig.cache
+C:\Users\czare\source\repos\maxchar\maxchar\obj\Debug\net8.0\ref\maxchar.dll
