@@ -1,0 +1,14 @@
+C:\Users\czare\source\repos\bst\bst\bin\Debug\net8.0\bst.exe
+C:\Users\czare\source\repos\bst\bst\bin\Debug\net8.0\bst.deps.json
+C:\Users\czare\source\repos\bst\bst\bin\Debug\net8.0\bst.runtimeconfig.json
+C:\Users\czare\source\repos\bst\bst\bin\Debug\net8.0\bst.dll
+C:\Users\czare\source\repos\bst\bst\bin\Debug\net8.0\bst.pdb
+C:\Users\czare\source\repos\bst\bst\obj\Debug\net8.0\bst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\czare\source\repos\bst\bst\obj\Debug\net8.0\bst.AssemblyInfoInputs.cache
+C:\Users\czare\source\repos\bst\bst\obj\Debug\net8.0\bst.AssemblyInfo.cs
+C:\Users\czare\source\repos\bst\bst\obj\Debug\net8.0\bst.csproj.CoreCompileInputs.cache
+C:\Users\czare\source\repos\bst\bst\obj\Debug\net8.0\bst.dll
+C:\Users\czare\source\repos\bst\bst\obj\Debug\net8.0\refint\bst.dll
+C:\Users\czare\source\repos\bst\bst\obj\Debug\net8.0\bst.pdb
+C:\Users\czare\source\repos\bst\bst\obj\Debug\net8.0\bst.genruntimeconfig.cache
+C:\Users\czare\source\repos\bst\bst\obj\Debug\net8.0\ref\bst.dll
