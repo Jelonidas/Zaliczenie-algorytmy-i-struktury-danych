@@ -1,0 +1,14 @@
+C:\Users\czare\source\repos\queue\queue\bin\Debug\net8.0\queue.exe
+C:\Users\czare\source\repos\queue\queue\bin\Debug\net8.0\queue.deps.json
+C:\Users\czare\source\repos\queue\queue\bin\Debug\net8.0\queue.runtimeconfig.json
+C:\Users\czare\source\repos\queue\queue\bin\Debug\net8.0\queue.dll
+C:\Users\czare\source\repos\queue\queue\bin\Debug\net8.0\queue.pdb
+C:\Users\czare\source\repos\queue\queue\obj\Debug\net8.0\queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\czare\source\repos\queue\queue\obj\Debug\net8.0\queue.AssemblyInfoInputs.cache
+C:\Users\czare\source\repos\queue\queue\obj\Debug\net8.0\queue.AssemblyInfo.cs
+C:\Users\czare\source\repos\queue\queue\obj\Debug\net8.0\queue.csproj.CoreCompileInputs.cache
+C:\Users\czare\source\repos\queue\queue\obj\Debug\net8.0\queue.dll
+C:\Users\czare\source\repos\queue\queue\obj\Debug\net8.0\refint\queue.dll
+C:\Users\czare\source\repos\queue\queue\obj\Debug\net8.0\queue.pdb
+C:\Users\czare\source\repos\queue\queue\obj\Debug\net8.0\queue.genruntimeconfig.cache
+C:\Users\czare\source\repos\queue\queue\obj\Debug\net8.0\ref\queue.dll
